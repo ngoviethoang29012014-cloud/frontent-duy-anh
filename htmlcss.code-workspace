@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../htmlcss"
+	},
+	{
+		"path": "../Codex"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {}
+}
